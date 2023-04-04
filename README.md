@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcw9438&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 
 
-## (github-profile-3d-contrib)
+<!-- github-profile-3d-contrib pos-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gcw9438&theme=tokyonight)](https://git.io/streak-stats) 
 
