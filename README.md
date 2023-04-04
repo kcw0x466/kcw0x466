@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gcw9438&theme=tokyonight)](https://git.io/streak-stats) 
 
-## Stack
+---  
+  
+### Stack
   
 Used as the main
 
@@ -69,7 +71,9 @@ Studying
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 
-## Study log
+---
+  
+### Study log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gcw9438&color=dark)](https://velog.io/@gcw9438)
   
 </div>
