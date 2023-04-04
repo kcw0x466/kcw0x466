@@ -16,15 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=300&section=header&text=Welcome%20to%20Chanwook's%20GitHub&fontSize=30&fontColor=ffffff&fontAlign=70&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&text=Welcome%20to%20Chanwook's%20GitHub&fontSize=30&fontColor=ffffff&fontAlign=70&animation=fadeIn)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gcw9438)](https://solved.ac/profile/gcw9438)
-
-
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=gcw9438&theme=tokyonight&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcw9438&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
@@ -34,7 +28,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gcw9438&theme=tokyonight)](https://git.io/streak-stats) 
 
----
 ## Stack
   
 Used as the main
@@ -76,9 +69,7 @@ Studying
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 
----
-
-
 ## Study log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gcw9438&color=dark)](https://velog.io/@gcw9438)
+  
 </div>
