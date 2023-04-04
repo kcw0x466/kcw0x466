@@ -73,7 +73,7 @@ Studying
 
 ---
   
-### Study log
+### Study and Dev Log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gcw9438&color=dark)](https://velog.io/@gcw9438)
   
 </div>
