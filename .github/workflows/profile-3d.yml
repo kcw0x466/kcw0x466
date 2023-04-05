@@ -13,13 +13,12 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE3DCONTRIB }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name "Chanwook Kim"
           git config user.email "kcw774707@gmail.com"
-          git remote set-url https://github.com/gcw9438/gcw9438
           git add -A .
           git commit -m "generated"
           git push
