@@ -19,6 +19,7 @@ jobs:
         run: |
           git config user.name Chanwook Kim
           git config user.email kcw774707@gmail.com
+          git remote set-url https://github.com/gcw9438/gcw9438
           git add -A .
           git commit -m "generated"
           git push
