@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 <!-- github-profile-3d-contrib pos -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gcw9438&theme=tokyonight)](https://git.io/streak-stats) 
 
