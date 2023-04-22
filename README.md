@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=1a1b26&height=120&section=header&text=Chanwook_GitHub&fontSize=47&fontColor=ffffff&fontAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=1a1b26&height=120&section=header&text=Chanwook&20Kim&fontSize=47&fontColor=ffffff&fontAlign=50&animation=fadeIn)
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gcw9438"/>
 <img src="http://mazandi.herokuapp.com/api?handle=gcw9438&theme=warm"/>
