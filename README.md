@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ---  
   
-### 🛠️ STACK 🛠️
+### 🛠️ TECH STACK 🛠️
 
 <div>
-  Used as the main
+  <b>Used as the main</b>
   <br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <div/>
 
 <div>
-  Used at least once
+  <b>Used at least once</b>
   <br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <div/>
   
 <div>
-  Studying
+  <b>Studying</b>
   <br/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
