@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </div>
  
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=gcw9438&theme=tokyonight&show_icons=true" width="40%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcw9438&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="43.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kcw0x466&theme=tokyonight&show_icons=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcw0x466&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="43.5%"/>
 </div>
 
 <!-- github-profile-3d-contrib pos -->
