@@ -85,6 +85,6 @@ Here are some ideas to get you started:
 ---
   
 ### 💻 BLOG 💻
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gcw9438&color=dark)](https://velog.io/@gcw9438)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kcw0x466&color=dark)](https://velog.io/@kcw0x466)
   
 </div>
