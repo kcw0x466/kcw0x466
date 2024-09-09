@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- <div align="center"> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&theme=tokyonight&text=Chanwook%20Kim&textBg=false&animation=fadeIn&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&theme=tokyonight&text=Chanwook%20Kim&textBg=false&animation=fadeIn&reversal=false)
 
 </br>
 
