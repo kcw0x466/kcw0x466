@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
+<!-- <div align="center"> -->
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=1a1b26&height=130&section=header&text=Chanwook%20Kim&desc=Welcome%20to%20my%20Github!&descAlignY=70&fontSize=47&fontColor=ffffff&fontAlign=50&animation=fadeIn)
-
+---
 <div>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gcw9438"/>
 <img src="http://mazandi.herokuapp.com/api?handle=gcw9438&theme=warm"/>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ---  
   
 ### 🛠️ TECH STACK 🛠️
-
+---
 <div>
   <b>Used as the main</b>
   <br/>
@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 ### 💻 BLOG 💻
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kcw0x466&color=dark)](https://velog.io/@kcw0x466)
   
-</div>
+<!-- </div> --> 
