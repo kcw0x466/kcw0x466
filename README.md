@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&theme=tokyonight&text=Chanwook%20Kim&textBg=false&animation=fadeIn&reversal=false)
 
-</br>
+# Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://velog.io/@kcw0x466)
 
 # Stats
 <div align=center>
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
+  
 </div>
 
 ## Back-End
@@ -68,10 +70,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
-## DataScience / ML / DL
+## DataScience / AI
 <div align=left>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 </div>
 
 ## Tools
@@ -79,22 +82,22 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0378A6?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+ <img src="https://img.shields.io/badge/intelliJ%20IDEA-000000?style=for-the-badge&logo=intelliJ%20IDEA&logoColor=white">
+ <img title="For Algorithmic Problem Solving" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
 </div>
 
 ## Etc
 <div align=left>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/>
 </div>
 
 ## Studying...
 <div align=left>
- 
+  <img title="For Algorithmic Problem Solving" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
-
-# Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kcw0x466&color=dark)](https://velog.io/@kcw0x466)
   
 <!-- </div> --> 
