@@ -22,16 +22,18 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://velog.io/@kcw0x466)
 
 # Stats
-<div align=center>
+## BAEKJOON
  <div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gcw9438"/>
   <img src="http://mazandi.herokuapp.com/api?handle=gcw9438&theme=warm"/>
  </div>
+ 
+## GitHub
  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kcw0x466&theme=tokyonight&show_icons=true" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcw0x466&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="43.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kcw0x466&theme=tokyonight&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcw0x466&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
  </div>
-</div>
+
 
 
 <!-- github-profile-3d-contrib pos -->
