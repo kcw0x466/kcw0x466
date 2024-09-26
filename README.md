@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  
 ## GitHub
  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kcw0x466&theme=tokyonight&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kcw0x466&theme=tokyonight&show_icons=true" style="width: 395px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcw0x466&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
  </div>
 
