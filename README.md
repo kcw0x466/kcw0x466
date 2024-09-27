@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://velog.io/@kcw0x466)
 
 # Stats
-## BAEKJOON
+### BAEKJOON
  <div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gcw9438"/>
   <img src="http://mazandi.herokuapp.com/api?handle=gcw9438&theme=warm"/>
  </div>
  
-## GitHub
+### GitHub
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=kcw0x466&theme=tokyonight&show_icons=true" style="width: 395px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcw0x466&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
@@ -49,13 +49,13 @@ Here are some ideas to get you started:
   
 </div>
 
-## Back-End
+## Back-End (Server)
 <div align=left>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
 </div>  
   
-## Front-End
+## Front-End (Client)
 <div align=left>
  
 ### Web
