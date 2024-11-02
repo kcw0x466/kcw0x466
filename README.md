@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- <div align="center"> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&theme=tokyonight&text=Chanwook%20Kim&textBg=false&animation=fadeIn&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&theme=tokyonight&text=kcw0x466&textBg=false&animation=fadeIn&reversal=false)
 
 # Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://velog.io/@kcw0x466)
