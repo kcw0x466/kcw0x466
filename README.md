@@ -49,13 +49,13 @@ Here are some ideas to get you started:
   
 </div>
 
-## Back-End (Server)
+## Back-End Framework (Server)
 <div align=left>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
 </div>  
   
-## Front-End (Client)
+## Front-End Framework (Client)
 <div align=left>
  
 ### Web
@@ -67,6 +67,12 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"/>
  
 </div>  
+
+## Web Server
+<div align=left>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/>
+</div>
 
 ## DB
 <div align=left>
@@ -89,11 +95,9 @@ Here are some ideas to get you started:
  <img title="For Algorithmic Problem Solving" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
 </div>
 
-## Etc
+## OS
 <div align=left>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/>
 </div>
 
 ## Studying...
