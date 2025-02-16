@@ -49,13 +49,13 @@ Here are some ideas to get you started:
   
 </div>
 
-## Back-End Framework (Server)
+## BackEnd Framework (Server)
 <div align=left>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
 </div>  
   
-## Front-End Framework (Client)
+## FrontEnd Framework (Client)
 <div align=left>
  
 ### Web
