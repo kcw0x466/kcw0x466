@@ -1,15 +1,13 @@
-<!-- typing.svg -->
 <svg xmlns="http://www.w3.org/2000/svg"
      width="100%" height="240" viewBox="0 0 800 240"
      preserveAspectRatio="xMidYMid meet"
-     role="img" aria-label="kcw0x466_ typing animation"
      style="background:#000">
   <defs>
     <style>
-      text{
+      text {
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
                      "Liberation Mono", "Courier New", monospace;
-        fill:#fff; font-size:72px; letter-spacing:1px;
+        fill: #fff; font-size: 72px; letter-spacing: 1px;
       }
     </style>
   </defs>
@@ -17,28 +15,28 @@
   <rect x="0" y="0" width="100%" height="100%" fill="#000"/>
 
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
-    <tspan id="c1"  opacity="0">k</tspan>
-    <tspan id="c2"  opacity="0">c</tspan>
-    <tspan id="c3"  opacity="0">w</tspan>
-    <tspan id="c4"  opacity="0">0</tspan>
-    <tspan id="c5"  opacity="0">x</tspan>
-    <tspan id="c6"  opacity="0">4</tspan>
-    <tspan id="c7"  opacity="0">6</tspan>
-    <tspan id="c8"  opacity="0">6</tspan>
-    <tspan id="c9"  opacity="0">_</tspan>
+    <tspan id="c1" opacity="0">k</tspan>
+    <tspan id="c2" opacity="0">c</tspan>
+    <tspan id="c3" opacity="0">w</tspan>
+    <tspan id="c4" opacity="0">0</tspan>
+    <tspan id="c5" opacity="0">x</tspan>
+    <tspan id="c6" opacity="0">4</tspan>
+    <tspan id="c7" opacity="0">6</tspan>
+    <tspan id="c8" opacity="0">6</tspan>
+    <tspan id="c9" opacity="0">_</tspan>
 
-    <!-- 타이핑: 한 글자씩 나타난 뒤 상태 유지 -->
-    <animate href="#c1" attributeName="opacity" values="0;1" dur="0.12s" begin="0s" fill="freeze"/>
-    <animate href="#c2" attributeName="opacity" values="0;1" dur="0.12s" begin="c1.end+0.08s" fill="freeze"/>
-    <animate href="#c3" attributeName="opacity" values="0;1" dur="0.12s" begin="c2.end+0.08s" fill="freeze"/>
-    <animate href="#c4" attributeName="opacity" values="0;1" dur="0.12s" begin="c3.end+0.08s" fill="freeze"/>
-    <animate href="#c5" attributeName="opacity" values="0;1" dur="0.12s" begin="c4.end+0.08s" fill="freeze"/>
-    <animate href="#c6" attributeName="opacity" values="0;1" dur="0.12s" begin="c5.end+0.08s" fill="freeze"/>
-    <animate href="#c7" attributeName="opacity" values="0;1" dur="0.12s" begin="c6.end+0.08s" fill="freeze"/>
-    <animate href="#c8" attributeName="opacity" values="0;1" dur="0.12s" begin="c7.end+0.08s" fill="freeze"/>
+    <!-- 절대 시간으로 타이핑 -->
+    <animate href="#c1" attributeName="opacity" values="0;1" dur="0.1s" begin="0s" fill="freeze"/>
+    <animate href="#c2" attributeName="opacity" values="0;1" dur="0.1s" begin="0.2s" fill="freeze"/>
+    <animate href="#c3" attributeName="opacity" values="0;1" dur="0.1s" begin="0.4s" fill="freeze"/>
+    <animate href="#c4" attributeName="opacity" values="0;1" dur="0.1s" begin="0.6s" fill="freeze"/>
+    <animate href="#c5" attributeName="opacity" values="0;1" dur="0.1s" begin="0.8s" fill="freeze"/>
+    <animate href="#c6" attributeName="opacity" values="0;1" dur="0.1s" begin="1.0s" fill="freeze"/>
+    <animate href="#c7" attributeName="opacity" values="0;1" dur="0.1s" begin="1.2s" fill="freeze"/>
+    <animate href="#c8" attributeName="opacity" values="0;1" dur="0.1s" begin="1.4s" fill="freeze"/>
 
-    <!-- '_' 커서: 보이게 만든 뒤 무한 깜빡임 -->
-    <animate href="#c9" attributeName="opacity" values="0;1" dur="0.01s" begin="c8.end+0.06s" fill="freeze"/>
-    <animate href="#c9" attributeName="opacity" values="1;0;1" dur="1s" begin="c9.end+0.1s" repeatCount="indefinite"/>
+    <!-- 커서: 나타난 후 무한 깜빡임 -->
+    <animate href="#c9" attributeName="opacity" values="0;1" dur="0.01s" begin="1.6s" fill="freeze"/>
+    <animate href="#c9" attributeName="opacity" values="1;0;1" dur="1s" begin="1.8s" repeatCount="indefinite"/>
   </text>
 </svg>
