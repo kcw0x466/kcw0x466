@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- <div align="center"> -->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&theme=tokyonight&text=kcw0x466&textBg=false&animation=fadeIn&reversal=false) -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&theme=tokyonight&text=kcw0x466&textBg=false&animation=fadeIn&reversal=false) 
 
 ![header](./id_typing.svg)
 
