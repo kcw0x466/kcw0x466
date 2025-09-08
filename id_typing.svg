@@ -1,13 +1,13 @@
 <!-- id_typing.svg -->
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="100%" height="240" viewBox="0 0 800 240"
+     width="100%" height="200" viewBox="0 0 800 200"
      preserveAspectRatio="xMidYMid meet" style="background:#1A1B25">
   <defs>
     <style>
       .mono{
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
                      "Liberation Mono", "Courier New", monospace;
-        fill:#729DE7; font-size:72px; line-height:1;
+        fill:#9DCBF6; font-size:72px; line-height:1;
       }
     </style>
   </defs>
