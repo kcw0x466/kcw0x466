@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <!-- <div align="center"> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&theme=tokyonight&text=kcw0x466&textBg=false&animation=fadeIn&reversal=false)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&theme=tokyonight&text=kcw0x466&textBg=false&animation=fadeIn&reversal=false) -->
 
-![header_test](./id_typing.svg)
+![header](./id_typing.svg)
 
 # Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://velog.io/@kcw0x466)
