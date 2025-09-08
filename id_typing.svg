@@ -1,44 +1,68 @@
+<!-- id_typing.svg -->
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="100%" height="240" viewBox="0 0 1000 240"
-     preserveAspectRatio="xMidYMid meet"
-     style="background:#000">
+     width="100%" height="240" viewBox="0 0 800 240"
+     preserveAspectRatio="xMidYMid meet" style="background:#000">
   <defs>
     <style>
-      text {
+      .mono{
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
                      "Liberation Mono", "Courier New", monospace;
-        fill: #fff; 
-        font-size: 72px; 
-        letter-spacing: 0px;
+        fill:#fff; font-size:72px; line-height:1;
       }
     </style>
   </defs>
 
+  <!-- 배경(안전) -->
   <rect x="0" y="0" width="100%" height="100%" fill="#000"/>
 
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
-    <tspan id="c1" opacity="0">k</tspan>
-    <tspan id="c2" opacity="0">c</tspan>
-    <tspan id="c3" opacity="0">w</tspan>
-    <tspan id="c4" opacity="0">0</tspan>
-    <tspan id="c5" opacity="0">x</tspan>
-    <tspan id="c6" opacity="0">4</tspan>
-    <tspan id="c7" opacity="0">6</tspan>
-    <tspan id="c8" opacity="0">6</tspan>
-    <tspan id="c9" opacity="0">_</tspan>
+  <!-- 글자 하나씩: 중앙 정렬 기준으로 ch 단위 오프셋 -->
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="-4ch">k
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="0s" fill="freeze"/>
+  </text>
 
-    <!-- 절대 시간으로 타이핑 -->
-    <animate href="#c1" attributeName="opacity" values="0;1" dur="0.1s" begin="0s" fill="freeze"/>
-    <animate href="#c2" attributeName="opacity" values="0;1" dur="0.1s" begin="0.2s" fill="freeze"/>
-    <animate href="#c3" attributeName="opacity" values="0;1" dur="0.1s" begin="0.4s" fill="freeze"/>
-    <animate href="#c4" attributeName="opacity" values="0;1" dur="0.1s" begin="0.6s" fill="freeze"/>
-    <animate href="#c5" attributeName="opacity" values="0;1" dur="0.1s" begin="0.8s" fill="freeze"/>
-    <animate href="#c6" attributeName="opacity" values="0;1" dur="0.1s" begin="1.0s" fill="freeze"/>
-    <animate href="#c7" attributeName="opacity" values="0;1" dur="0.1s" begin="1.2s" fill="freeze"/>
-    <animate href="#c8" attributeName="opacity" values="0;1" dur="0.1s" begin="1.4s" fill="freeze"/>
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="-3ch">c
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="0.20s" fill="freeze"/>
+  </text>
 
-    <!-- 커서: 나타난 후 무한 깜빡임 -->
-    <animate href="#c9" attributeName="opacity" values="0;1" dur="0.01s" begin="1.6s" fill="freeze"/>
-    <animate href="#c9" attributeName="opacity" values="1;0;1" dur="1s" begin="1.8s" repeatCount="indefinite"/>
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="-2ch">w
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="0.40s" fill="freeze"/>
+  </text>
+
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="-1ch">0
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="0.60s" fill="freeze"/>
+  </text>
+
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="0ch">x
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="0.80s" fill="freeze"/>
+  </text>
+
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="1ch">4
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="1.00s" fill="freeze"/>
+  </text>
+
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="2ch">6
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="1.20s" fill="freeze"/>
+  </text>
+
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="3ch">6
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="1.40s" fill="freeze"/>
+  </text>
+
+  <!-- 커서 '_' : 등장 후 visibility로 무한 깜빡임 -->
+  <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        visibility="hidden" dx="4ch">_
+    <!-- 먼저 타이핑 끝나고 보이게 -->
+    <animate attributeName="visibility" values="hidden;visible" dur="0.01s" begin="1.60s" fill="freeze"/>
+    <!-- 그 다음부터 깜빡임 반복 -->
+    <animate attributeName="visibility" values="visible;hidden;visible"
+             dur="1s" begin="1.80s" repeatCount="indefinite"/>
   </text>
 </svg>
