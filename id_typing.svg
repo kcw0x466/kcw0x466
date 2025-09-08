@@ -1,19 +1,19 @@
 <!-- id_typing.svg -->
 <svg xmlns="http://www.w3.org/2000/svg"
      width="100%" height="240" viewBox="0 0 800 240"
-     preserveAspectRatio="xMidYMid meet" style="background:#000">
+     preserveAspectRatio="xMidYMid meet" style="background:#1A1B25">
   <defs>
     <style>
       .mono{
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
                      "Liberation Mono", "Courier New", monospace;
-        fill:#fff; font-size:72px; line-height:1;
+        fill:#729DE7; font-size:72px; line-height:1;
       }
     </style>
   </defs>
 
   <!-- 배경(안전) -->
-  <rect x="0" y="0" width="100%" height="100%" fill="#000"/>
+  <rect x="0" y="0" width="100%" height="100%" fill="#1A1B25"/>
 
   <!-- 글자 하나씩: 중앙 정렬 기준으로 ch 단위 오프셋 -->
   <text class="mono" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
