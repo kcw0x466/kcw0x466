@@ -74,6 +74,10 @@
  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </div>
 
+<!-- ## Education -->
+
+<!-- ## Experience -->
+
 <!-- ## Projects -->
 
 ## Blog
