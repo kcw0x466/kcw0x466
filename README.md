@@ -23,13 +23,17 @@
 <div align=center>
  <img src="./id_typing.svg">
  <!-- ![header](./id_typing.svg) -->
- <br>
- <h3>
+ <!-- <br> -->
+ <!-- <h3>
   컴퓨터 공학을 전공하고 있는 학생입니다. <br>IT 인프라와 정보보안 분야에 관심을 가지고 공부하고 있습니다.
- </h3>
+ </h3> -->
 </div>
 
 <br>
+
+## About Me
+> 컴퓨터 공학을 전공하고 있는 학생입니다. <br>
+> IT 인프라와 정보보안 분야에 관심을 가지고 공부하고 있습니다.
 
 ## Interested In
 - IT Infrastructure
