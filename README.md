@@ -81,5 +81,5 @@
 <!-- ## Projects -->
 
 ## Blog
-[![kcw0x466.exe](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://kcw0x466-blog.vercel.app/)
+[![kcw0x466.exe](https://img.shields.io/badge/kcw0x466-60A9FE?style=for-the-badge&logo=vercel&logoColor=white)](https://kcw0x466-blog.vercel.app/)
 
