@@ -81,5 +81,5 @@
 <!-- ## Projects -->
 
 ## Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://velog.io/@kcw0x466)
+[![kcw0x466.exe](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://kcw0x466-blog.vercel.app/)
 
