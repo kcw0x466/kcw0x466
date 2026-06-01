@@ -81,5 +81,5 @@
 <!-- ## Projects -->
 
 ## Blog
-[![kcw0x466.exe](https://velog-readme-stats.vercel.app/api/badge?name=kcw0x466)](https://kcw0x466-blog.vercel.app/)
+[![kcw0x466.exe](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://kcw0x466-blog.vercel.app/)
 
