@@ -80,6 +80,6 @@
 
 <!-- ## Projects -->
 
-## Blog
-[![kcw0x466.exe](https://img.shields.io/badge/kcw0x466-60A9FE?style=for-the-badge&logo=vercel&logoColor=white)](https://kcw0x466-blog.vercel.app/)
+## My Sites
+[![kcw0x466.exe](https://img.shields.io/badge/BLOG-60A9FE?style=for-the-badge&logo=devbox&logoColor=white)](https://kcw0x466-blog.vercel.app/)
 
